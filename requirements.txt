@@ -1,0 +1,7 @@
+langserve
+sse_starlette
+bs4
+tf-keras
+langchain
+langchain-community
+openai
